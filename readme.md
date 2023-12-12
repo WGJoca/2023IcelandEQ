@@ -16,8 +16,8 @@ The "Week" layers show the quakes. When the user hovers on the points the time/d
 4. Possible legend that tells the number of quakes displayed on screen, the gradiated colors of magnitude, and radius size in relation to depth.
 5. Sparsing of data to remove any insignificant quakes less < 1.0 magnitude.
 
-Sp Thanks:
-Dr. Johnathan Sugg
-App State Department of Geography and Planning
-Iceland Meteorological Office
-CJ Silver
+#Sp Thanks:
+- Dr. Johnathan Sugg
+- App State Department of Geography and Planning
+- Iceland Meteorological Office
+- CJ Silver
